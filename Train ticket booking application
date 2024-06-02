@@ -37,7 +37,7 @@ struct bookingForm {
   int numBookedPax=0;
   int SPNR=1001,SBNO=1;
   void dispMainMenu() {
-    printf("Zoho Railways Ticket Reservation System\n");
+    printf("Indian Railways Ticket Reservation System\n");
     printf("Main Menu\n \
                 1. Book Ticket\n\
                 2. Cancel Ticket\n\
